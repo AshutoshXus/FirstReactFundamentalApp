@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Preview link
 
-https://magical-snickerdoodle-6b2154.netlify.app/
+https://ashu-intro-to-reactfundamentals.netlify.app/
 
 ## Available Scripts
 
